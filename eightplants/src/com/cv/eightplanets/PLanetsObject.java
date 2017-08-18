@@ -1,4 +1,4 @@
-package com.bjsxt.eightplanets;
+package com.cv.eightplanets;
 
 import java.awt.Polygon;
 import java.awt.image.BufferedImage;

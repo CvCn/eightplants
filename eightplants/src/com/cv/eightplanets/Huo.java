@@ -1,4 +1,4 @@
-package com.bjsxt.eightplanets;
+package com.cv.eightplanets;
 
 public class Huo extends PLanetsObject
 {

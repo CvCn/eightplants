@@ -1,4 +1,4 @@
-package com.bjsxt.eightplanets;
+package com.cv.eightplanets;
 
 import javax.swing.JFrame;
 
